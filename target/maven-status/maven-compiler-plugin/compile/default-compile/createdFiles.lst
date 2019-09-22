@@ -1,0 +1,14 @@
+com\song\user\service\UserService.class
+com\song\user\UserApp.class
+com\song\user\pojo\UserExample$GeneratedCriteria.class
+com\song\user\pojo\UserExample$Criteria.class
+com\song\user\utils\CorsConfig.class
+com\song\user\pojo\User.class
+com\song\user\utils\PageResult.class
+com\song\user\pojo\UserExample.class
+com\song\user\service\impl\UserServiceImpl.class
+com\song\user\controller\UserController.class
+com\song\user\pojo\UserExample$Criterion.class
+com\song\user\utils\Result.class
+com\song\user\mapper\UserMapper.class
+com\song\user\utils\CorsFilter.class
